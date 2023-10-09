@@ -4,6 +4,6 @@ Hi 👋, I'm Pedro !
 - 🌱 I’m currently owning my skills on Unreal Engine 5, Video game programming and development, Perforce.
 - 🤝 I’m looking to collaborate on video game projects as an member of the engineer programmer team.
 - 📫 How to reach me: pedromiguel.almd@gmail.com.
-- ⚡ Enthusiast about: Videogames, Books (Specially Tech Technical books, Fantasy, Sci-Fi and Horror)!
+- ⚡ Enthusiast about: Videogames, Books (Specially Tech, Fantasy, Sci-Fi and Horror)!
 
 Thank you for taking your time to check out my profile and repositories 😁 !
