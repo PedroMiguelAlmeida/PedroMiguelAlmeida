@@ -5,5 +5,8 @@ Hi 👋, I'm Pedro !
 - 🤝 I’m looking to collaborate on video game projects as an member of the engineer programmer team.
 - 📫 How to reach me: pedromiguel.almd@gmail.com.
 - ⚡ Enthusiast about: Videogames, Books (Specially Tech, Fantasy, Sci-Fi and Horror)!
+- 🔭 To see more of my projects:
+    - GitHub repositories: https://github.com/PedroMiguelAlmeida?tab=repositories .
+    - GitLab Repositories: https://gitlab.com/pedroalmd . 
 
 Thank you for taking your time to check out my profile and repositories 😁 !
